@@ -26,6 +26,8 @@ Once you have checked the genome assembly, you may decide that:
 
 {% include callout.html type="important" content="the metrics described in this workflow will also be necessary to report if you are publishing your genome." %}
 
+<iframe title="Galaxy Workflow Embed" style="width: 100%; height: 700px; border: none;" src="https://usegalaxy.org.au/published/workflow?id=e2e9d0403c5699fd&embed=true&buttons=true&about=false&heading=false&minimap=true&zoom_controls=true&initialX=-20&initialY=-20&zoom=1"></iframe>
+
 ### How to cite the workflow
 
 > Price, G., & Syme, A. (2024). Genome-assessment-post-assembly. WorkflowHub. <a href="https://doi.org/10.48546/WORKFLOWHUB.WORKFLOW.403.4" ga-product="workflow_doi" ga-id="403_assembly_QC">https://doi.org/10.48546/WORKFLOWHUB.WORKFLOW.403.4</a>
